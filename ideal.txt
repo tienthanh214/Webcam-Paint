@@ -1,0 +1,18 @@
+* Future:
+	- 1 ngón tay vẽ
+	- có thể chọn màu (hai ngón vào ô màu)
+	- xóa nét vẽ (đưa cả bàn tay ra xóa như xóa bảng / hoặc chọn công cụ xóa bằng 2 ngón tay)
+
+* How?
+	- detect ngón tya
+	- detect vùng màu
+	- detech xoas
+
+
+
+https://dev.to/amarlearning/finger-detection-and-tracking-using-opencv-and-python-586m
+
+https://art-of-electronics.blogspot.com/2019/11/writing-in-air-using-finger-in-python.html
+https://towardsdatascience.com/tutorial-webcam-paint-opencv-dbe356ab5d6c
+https://www.learnopencv.com/creating-a-virtual-pen-and-eraser-with-opencv/
+https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
